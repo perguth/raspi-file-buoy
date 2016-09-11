@@ -27,6 +27,7 @@ function fish_prompt
   set_color normal
 end
 ```
+- [x] `sudo nano /etc/default/macchanger` and set `ENABLE_ON_POST_UP_DOWN` to `true`.
 
 ### set up the wifi module
 TODO
